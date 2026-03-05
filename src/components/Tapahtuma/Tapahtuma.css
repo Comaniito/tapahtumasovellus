@@ -1,0 +1,25 @@
+.tapahtuma {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.tapahtuma h3 {
+  margin: 0 0 5px 0;
+}
+
+.tapahtuma button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #ff4d4d;
+  color: white;
+  border-radius: 4px;
+}
+
+.tapahtuma button:hover {
+  background-color: #e60000;
+}

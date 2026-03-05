@@ -1,0 +1,21 @@
+.lomake {
+  margin-bottom: 20px;
+}
+
+.lomake input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.lomake button {
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+}
+
+.lomake button:hover {
+  background-color: #45a049;
+}
